@@ -1,0 +1,11 @@
+compile:
+g++ -std=c++11 -02 -Wall test.cpp -o test
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    //solution comes here
+}
+
